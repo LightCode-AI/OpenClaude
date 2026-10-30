@@ -79,6 +79,7 @@ input_tokens = max(0, prompt_tokens − cache_read − cache_write)
 | [`article_cn.pdf`](article_cn.pdf) | 中文 | 论文全文，12 页 |
 | [`article.pdf`](article.pdf) | English | 英文版，12 页 |
 | [`REPORT.md`](REPORT.md) | 中文 | Markdown 源文件 |
+| [`REPORT.en.md`](REPORT.en.md) | English | Markdown source |
 
 报告的第 2 章给出掺水的五类分类学，第 3 章逐条讲解上面这些实现，第 4 章把 12 项可观测痕迹做成实测，第 5 章是一次完整的缺陷定位与修复，第 7 章评估了两类被高估的检测信号。
 
