@@ -3,6 +3,8 @@
 **Technical Report**
 Version 2.0 · 2026-10-30
 
+**Author**: Lorry-San (GitHub: @Lorry-San) · LightCode AI
+
 ---
 
 ## Abstract
