@@ -72,6 +72,8 @@ input_tokens = max(0, prompt_tokens − cache_read − cache_write)
 
 流式路径直接透传上游 SSE，边收边发；早期版本等完整答案再分块，首字时间等于总耗时，本身就是破绽。
 
+**作者**：[Lorry-San](https://github.com/Lorry-San) · LightCode AI
+
 ## 报告
 
 | 文件 | 语言 | 说明 |
@@ -94,7 +96,7 @@ input_tokens = max(0, prompt_tokens − cache_read − cache_write)
 ```bibtex
 @techreport{openclaude2026,
   title  = {OpenClaude: 中转站掺水的技术分类、可观测痕迹与检测评估},
-  author = {LightCode AI},
+  author = {Lorry-San and LightCode AI},
   year   = {2026},
   month  = {10},
   note   = {Technical report, version 2.0}
