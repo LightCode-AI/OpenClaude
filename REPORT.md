@@ -3,6 +3,8 @@
 **技术报告**
 版本 2.0 · 2026-10-30
 
+**作者**：Lorry-San（GitHub：@Lorry-San）· LightCode AI
+
 ---
 
 ## 摘要
